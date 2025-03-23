@@ -114,7 +114,7 @@ Kanawha IT Security LLC
 📧 **tim@kitswv.com**
 
 **Script development and troubleshooting assistance provided by:**  
-OpenAI’s ChatGPT
+Larry Jones, OpenAI’s ChatGPT
 
 ---
 
