@@ -1,5 +1,7 @@
 # 🖼️ InterNACHI Gallery Scraper
 
+currently only gets the thumbnails.  having issues with anti scraping or some weird hooks.  you're welcome to try, i may get to it when i get some spare time.
+
 This Python project automates logging into the [InterNACHI](https://www.nachi.org/) member portal, navigating to the **Home Inspection Image Gallery**, and downloading all available images from every gallery category.
 
 It was developed by **Kanawha IT Security LLC** as a tool to assist inspectors in building a local library of illustrations and diagrams from the InterNACHI marketing resources.
